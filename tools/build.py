@@ -40,6 +40,8 @@ DESIGN_PROJECTS = [
          img="kmaroun-ijora.jpg", alt="3D structural view of the K'Maroun Complex", kind="model"),
     dict(name="Lekki Hub / GTBank branch, Jabi", place="Jabi, Abuja", scope="Structural design for building remodelling", sector="Corporate",
          img="gtbank-jabi.jpg", alt="Render of the remodelled GTBank branch at Jabi"),
+    dict(name="Campus ICT Centre", place="University campus, South-West Nigeria", scope="Structural design of a two-storey ICT centre with a steel truss roof", sector="Institutional",
+         img="campus-ict-centre-model.jpg", alt="Structural model of the campus ICT centre with its steel truss roof", kind="model"),
 ]
 
 SURVEYS = [
